@@ -19,4 +19,4 @@
 ***Model Comparison***
 > Comparison is done by calculating the Accoracy score of each model
 >
-> Both models seem to be highly predictive but the Random classifier seems to be more predictive with an accuracy score of 0.95 compared to the logistic regression accuracy score of 0.93. the high scores also may indicate overfitting and further analysis needs to be done on variable selection to evaluate resuts*
+> Both models seem to be highly predictive but the ***Random classifier seems to be more predictive*** with an ***accuracy score of 0.95*** compared to the logistic regression accuracy score of 0.93. the high scores also may indicate overfitting and further analysis needs to be done on variable selection to evaluate resuts
